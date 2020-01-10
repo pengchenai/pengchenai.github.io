@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rui Zhao | 赵瑞"
+title                    : "Peng Chen | 陈鹏"
 title_separator          : "-"
-name                     : &name "Rui Zhao"
-description              : &description "PhD student at Siemens AG & LMU Munich"
-url                      : https://ruizhaogit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Peng Chen"
+description              : &description "Master student at Technical University of Munich"
+url                      : https://pengchenai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ruizhaogit.github.io"
+repository               : "pengchenai.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,13 +79,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rui Zhao"
+  name             : "Peng Chen"
   avatar           : "profile.png"
-  bio              : "PhD Student | Machine Learning, Reinforcement Learning, and Robotics"
+  bio              : "Master Student | Adversarial Machine Learning"
   location         : "Munich, Germany"
   employer         :
-  googlescholar    : "https://scholar.google.de/citations?user=N1yNDnQAAAAJ&hl=en"
-  email            : "zhaorui.in.germany@gmail.com"
+  googlescholar    : 
+  email            : "peng.chen@tum.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -93,16 +93,16 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ruizhaogit"
+  github           : "pengchenai"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "rui-zhao-profile"
+  linkedin         : 
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
