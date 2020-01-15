@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Peng Chen"
-  avatar           : 
+  avatar           : "bio-photo.jpg"
   bio              : "Master Student | Adversarial Machine Learning"
   location         : "Munich, Germany"
   employer         :
