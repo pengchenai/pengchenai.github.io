@@ -1,7 +1,7 @@
 ---
 title: 'Review on Transferring Robustness for Graph Neural Network Against Poisoning Attacks'
 data: 2020-01-21
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/2020/01/blog-post-1/
 tags:
   - Adversarial Machine Learning
   - Graph Neural Network
