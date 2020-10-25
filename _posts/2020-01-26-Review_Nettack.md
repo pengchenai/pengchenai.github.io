@@ -20,7 +20,7 @@ $$\text{subject to }Z^* = f_{\theta^*}(A',X'), \text{with}\, \theta^*=\underset{
 
 where $\mathcal{\hat{P}}^{G_0}_{\Delta, \mathcal{A}}$ is the set of perturbed graphs under the global budget and perserving additionally the degree distribution and feature co-occurence. More detail on next part.
 
-### Threat Model
+### Threat model
 TBD
 
 ### Surrogate model
