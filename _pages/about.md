@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master student at the [Technical University of Munich](https://www.mathematik-informatik-statistik.uni-muenchen.de/index.html) majoring in Robotics, Cognition, Intelligence. My research interests include machine learning, especially adversarial machine learning, and their application to data analysis, computer vision and robotics. In particular, I am interested in improving the robustness and explanability of current deep learning algorithms and apply them to solve real-world tasks.
+Hi! I just finished my master study in Robotics, Cognition, Intelligence at the [Technical University of Munich](https://www.mathematik-informatik-statistik.uni-muenchen.de/index.html). My interests include machine learning, deep learning and data mining. I am actively looking for a job as data scientist or machine learning engineer. I am also open to other related work such as software engineer.
